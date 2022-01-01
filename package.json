@@ -1,12 +1,20 @@
 {
   "name": "@crazydos/vue-cli-plugin-fontawesome",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "vue-cli plugin to setup vue-font-awesome",
+  "homepage": "https://github.com/shunnNet/crazydos-vue-cli-plugin-fontawesome",
+  "bugs": {
+    "url": "https://github.com/shunnNet/crazydos-vue-cli-plugin-fontawesome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shunnNet/crazydos-vue-cli-plugin-fontawesome"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["vue-cli-plugin", "fontawesome", "vue-fontawesome"],
+  "author": "shunnNet",
+  "license": "MIT"
 }
