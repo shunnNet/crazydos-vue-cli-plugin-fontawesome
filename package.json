@@ -1,7 +1,7 @@
 {
   "name": "@crazydos/vue-cli-plugin-fontawesome",
   "version": "0.0.1",
-  "description": "vue-cli plugin to add vue-font-awesome",
+  "description": "vue-cli plugin to setup vue-font-awesome",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
